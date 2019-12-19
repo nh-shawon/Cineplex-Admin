@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>795052672826-ojm54fvn0tsi9opkr6uuv0ip4k570ale.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.795052672826-ojm54fvn0tsi9opkr6uuv0ip4k570ale</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBiNxOknlxP7tr0jvsEwA4OZPq3s00R_hI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>795052672826</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nazirulhasan.MovieTicketsAdmin</string>
+	<key>PROJECT_ID</key>
+	<string>movietickets-242c8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>movietickets-242c8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:795052672826:ios:a0842a7ad1ca735829f203</string>
+	<key>DATABASE_URL</key>
+	<string>https://movietickets-242c8.firebaseio.com</string>
+</dict>
+</plist>
